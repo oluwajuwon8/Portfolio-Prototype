@@ -1,0 +1,125 @@
+nav {
+  background-color :#3E3C3C;
+}
+
+header {
+  background-image: url("images/background.svg");
+  background-repeat: no-repeat;
+  background-size: 50%;
+  background-position: right;
+  height: 53.25rem;
+}
+
+.title1 {
+ font-family: Crete Round;
+ font-style: normal;
+ font-weight: normal;
+ font-size: 72px;
+ line-height: 81px;
+ color: #F55800;
+}
+
+.par1 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 44px;
+}
+
+.par2 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.title2 {
+  font-family: Crete Round;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 37px;
+  line-height: 52px;
+  color: #091E42;
+}
+
+.btn1{
+  background-color: #f55800;
+  width: 30%;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+}
+
+.title3 {
+  font-family: Crete Round;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 52px;
+  color: #091E42;
+}
+
+.par3 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 28px;
+  color: #091e42;
+}
+
+.btn2 {
+  background-color: #f55800;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+}
+
+.card-title2 {
+  font-family: Crete Round;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 44px;
+}
+
+.block {
+  width: 31.7%;
+  height: 435px;
+}
+
+.block1 {
+  background-image: url("images/project2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.block2 {
+  background-image: url("images/project3.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.block3 {
+  background-image: url("images/project4.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.block4 {
+  background-image: url("images/project5.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.lans {
+  background-color: rgba(255, 255, 255, 0.24);;
+}
