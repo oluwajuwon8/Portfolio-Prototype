@@ -256,6 +256,10 @@ button:enabled {
   color: #FFFFFF;
 }
 
+.nav-btn {
+  background-color: transparent;
+}
+
 button:disabled {
   font-family: Inter;
   font-style: normal;
