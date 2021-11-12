@@ -30,7 +30,7 @@
 }
 
 nav {
-  background-color: #3e3C3C;
+  background-color: #3e3c3c;
 }
 
 body {
@@ -131,7 +131,7 @@ header {
 }
 
 .card-title2 {
-  font-family: Crete Round,serif;
+  font-family: Crete Round, serif;
   font-style: normal;
   font-weight: normal;
   font-size: 32px;
@@ -253,7 +253,7 @@ header {
 
 button:enabled {
   background: #f55800;
-  color: #ffffff;
+  color: #fff;
 }
 
 .nav-btn {
@@ -261,7 +261,7 @@ button:enabled {
 }
 
 button:disabled {
-  font-family: Inter,sans-serif;
+  font-family: Inter, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 17px;
