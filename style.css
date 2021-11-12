@@ -270,3 +270,9 @@ button:disabled {
   letter-spacing: 0.03em;
   background-color: #F4F1F0
 }
+
+@media screen and (max-width: 576px) {
+  .firstly {
+    display: none;
+  }
+}
